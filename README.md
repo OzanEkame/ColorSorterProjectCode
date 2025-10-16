@@ -57,8 +57,8 @@ A detailed table is in `docs/bom.md`. It lists each component with a **price col
 **Full setup**
 ![Setup](docs/img/model.png)
 
-**Sorter flow**
-![Sorter flow](docs/img/sorter-flow.png)
+**Sorter flowchart**
+![Sorter flow](docs/img/sorter-flowchart.png)
 
 **LCD counters**
 ![LCD](docs/img/lcd.jpg)
