@@ -4,9 +4,9 @@ EK210 color sorter project code
 ## Contributors
 
 - **Hiwot Ayalew** — *Wiring diagram & circuit*
-- **Owen Mulderig** — *CAD design of funnel system*
+- **Owen Mulderig** — *CAD design and funnel system*
 - **Ozan Ekame Pekgoz** — *Code & wiring of sensor and LCD*
-- **Reuben Mishael Then** — *CAD design of main model & wiring for power supply*
+- **Reuben Mishael Then** — *CAD design of main model & wiring for power supply & driver*
 
   
 # Color Sorting (Arduino + TCS34725) — Code & Wiring
