@@ -60,8 +60,9 @@ A detailed table is in `docs/bom.md`. It lists each component with a **price col
 ## Gallery
 
 <p align="center"><img src="docs/img/wiring.png" alt="Wiring" width="720"></p>
-<p align="center"><img src="docs/img/model.png" alt="CAD drawing" width="720"></p>
 <p align="center"><img src="docs/img/sorter-flowchart.png" alt="Sorter flowchart" width="720"></p>
+<p align="center"><img src="docs/img/model.png" alt="CAD drawing" width="720"></p>
+
 
 
 
