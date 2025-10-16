@@ -10,8 +10,9 @@ This repo contains **Arduino code and wiring** for a color-sorting device that u
   - `firmware/ColorSensorMinimal.ino` — TCS34725 readout (R,G,B,C + Lux + CCT) to Serial.
   - `firmware/ColorSorter.ino` — sensor → classify → servo angle → stepper advance → LCD counters.
 - Simple, reproducible **wiring** with common parts.
-- **Cost breakdown** per part (see “Bill of Materials”).  
-  *(Fill exact prices you paid in `docs/bom.md` — examples included.)*
+- **Cost breakdown** per part (see “Bill of Materials”).
+- - Total parts cost: **$106**
+  *( detailed prices in docs/bom.md.)*
 
 ## Hardware
 - Arduino Uno (or compatible)
