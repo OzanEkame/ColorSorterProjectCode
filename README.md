@@ -25,8 +25,8 @@ This repo contains **Arduino code and wiring** for a color-sorting device that u
 ## Hardware
 - Arduino Uno (or compatible)
 - Adafruit TCS34725 (I²C)
-- SG90 micro servo
-- NEMA23 stepper + driver (e.g., TB6600 or equivalent)
+- Hiwonder HPS-2027 Servo
+- NEMA17 stepper + driver (e.g., TB6600 or equivalent)
 - 20×4 I²C LCD (addr `0x27` by default)
 - 12 V PSU for stepper, 5 V for logic/servo, common ground
 
