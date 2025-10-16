@@ -1,6 +1,14 @@
 # ColorSorterProjectCode
 EK210 color sorter project code
 
+## Contributors
+
+- **Hiwot Ayalew** — *Wiring diagram & circuit*
+- **Owen Mulderig** — *CAD design of funnel system*
+- **Ozan Ekame Pekgoz** — *Code & wiring of sensor and LCD*
+- **Reuben Mishael Then** — *CAD design of main model & wiring for power supply*
+
+  
 # Color Sorting (Arduino + TCS34725) — Code & Wiring
 
 This repo contains **Arduino code and wiring** for a color-sorting device that uses an Adafruit **TCS34725** RGB sensor to detect color, an **SG90** servo to position a chute, and a **NEMA23** stepper (via driver) to rotate a bin disk. It excludes team mechanical/CAD files.
@@ -58,6 +66,7 @@ A detailed table is in `docs/bom.md`. It lists each component with a **price col
 ![Setup](docs/img/model.png)
 
 **Sorter flowchart**
+
 ![Sorter flow](docs/img/sorter-flowchart.png)
 
 **LCD counters**
