@@ -49,3 +49,17 @@ A detailed table is in `docs/bom.md`. It lists each component with a **price col
 - `ColorSorter.ino` runs the full loop (sensor → classify → servo → stepper → LCD counters).  
 - This repo intentionally focuses on **code + wiring** (my contribution). Mechanical/CAD assets are not included here.
 
+## Gallery
+
+**Wiring (Arduino + sensor + driver + LCD)**
+![Wiring](docs/img/wiring.jpg)
+
+**Full setup**
+![Setup](docs/img/setup.jpg)
+
+**Sorter flow**
+![Sorter flow](docs/img/sorter-flow.png)
+
+**LCD counters**
+![LCD](docs/img/lcd.jpg)
+
