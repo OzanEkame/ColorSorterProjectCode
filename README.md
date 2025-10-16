@@ -52,10 +52,10 @@ A detailed table is in `docs/bom.md`. It lists each component with a **price col
 ## Gallery
 
 **Wiring (Arduino + sensor + driver + LCD)**
-![Wiring](docs/img/wiring.jpg)
+![Wiring](docs/img/wiring.png)
 
 **Full setup**
-![Setup](docs/img/setup.jpg)
+![Setup](docs/img/model.png)
 
 **Sorter flow**
 ![Sorter flow](docs/img/sorter-flow.png)
